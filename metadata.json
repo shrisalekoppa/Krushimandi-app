@@ -1,0 +1,8 @@
+{
+  "name": "KrushiMandi App",
+  "description": "Indian Mandi Agricultural Crop Price Analytics, Daily \u0026 Historical Trends, Price Alerts, Weather Sell-Advisor \u0026 Offline Sync",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
